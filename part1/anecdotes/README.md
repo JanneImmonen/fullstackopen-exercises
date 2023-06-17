@@ -30,4 +30,3 @@ You need to have Node.js and npm installed on your machine. You can download Nod
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-**
