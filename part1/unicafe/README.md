@@ -25,7 +25,7 @@ You need to have Node.js and npm installed on your machine. You can download Nod
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/JanneImmonen)
 
 ## License
 
