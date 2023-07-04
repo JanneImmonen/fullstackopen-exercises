@@ -39,4 +39,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Janne Immonen is a Business IT student from Laurea University of Applied Sciences with a deep passion for software development, data science, and automation testing. He has a solid foundation in web development, programming, and various technologies such as C#, Python, and JavaScript frameworks like Node.js and React.
 
-You can reach out to him through his [GitHub profile](https://github.com/JanneImmonen) or his [LinkedIn profile](https://www.linkedin.com/in/janne-immonen/).
+You can reach out to him through his [GitHub profile](https://github.com/JanneImmonen) or his [LinkedIn profile](https://www.linkedin.com/in/janneimmonen/).
